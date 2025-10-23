@@ -1,0 +1,29 @@
+    # Logs
+    *.log
+    *.Rhistory
+    logs/
+
+    # Dependency directories
+    node_modules/
+
+    # Draft Papers
+    *.qmd
+    *.html
+    *.docx
+    *.pptx
+    Current paper draft_files/
+
+    # References
+    *.zip
+    FutureGPT2-public-master/
+
+    # Build output
+    dist/
+    build/
+
+    # Environment variables
+    .env
+
+    # IDE files
+    .vscode/
+    .idea/
