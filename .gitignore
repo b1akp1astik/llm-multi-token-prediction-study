@@ -16,10 +16,14 @@ Current paper draft_files/
 # References
 *.zip
 FutureGPT2-public-master/
+multi-token-prediction/
+ARCHIVE/
+
 
 # Build output
 dist/
 build/
+Check Points/
 
 # Environment variables
 .env
